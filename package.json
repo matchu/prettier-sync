@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "prettier": "^0.16.0",
+    "verror": "^1.9.0",
+    "walk": "^2.3.9"
+  }
+}
